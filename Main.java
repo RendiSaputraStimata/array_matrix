@@ -6,7 +6,7 @@ public class Matrix
     {
         Scanner masukan = new Scanner(System.in);        
         
-        int matrix1[] [] = new int[4][4]; //jumlah kurung siku untuk melihat dimensi dari array
+        int matrix1[] [] = new int[4][4];
         
         int matrix2[] [] = new int[4][4];
         
